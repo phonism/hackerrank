@@ -3,5 +3,8 @@
         + [Warmup](https://www.hackerrank.com/domains/algorithms/warmup)
             + [x] [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first): [Code](https://github.com/phonism/hackerrank/blob/master/Domains/Algorithms/Warmup/Solve_Me_First.cpp)
             + [x] [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum): [Code](https://github.com/phonism/hackerrank/blob/master/Domains/Algorithms/Warmup/Simple_Array_Sum.cpp)
-+ Contests
-    + Data Science
+            + [x] [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum): [Code](https://github.com/phonism/hackerrank/blob/master/Domains/Algorithms/Warmup/A_Very_Big_Sum.cpp)
+            + [x] [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference): [Code](https://github.com/phonism/hackerrank/blob/master/Domains/Algorithms/Warmup/Diagonal_Difference.cpp)
+            + [x] [Plus Minus](https://www.hackerrank.com/challenges/plus-minus): [Code](https://github.com/phonism/hackerrank/blob/master/Domains/Algorithms/Warmup/Plus_Minus.cpp)
+            + [x] [Staircase](https://www.hackerrank.com/challenges/staircase): [Code](https://github.com/phonism/hackerrank/blob/master/Domains/Algorithms/Warmup/Staircase.cpp)
+            + [ ] [Time Conversion](https://www.hackerrank.com/challenges/time-conversion): Still trying to solve it.
