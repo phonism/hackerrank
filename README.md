@@ -1,13 +1,13 @@
 + [Domains](https://www.hackerrank.com/domains)
     + [Algorithms](https://www.hackerrank.com/domains/algorithms)
-        + [Warmup](https://www.hackerrank.com/domains/algorithms/warmup)
+        + [Warmup](https://www.hackerrank.com/domains/algorithms/warmup) (**ALL DONE**)
             + [x] [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first): [Code](https://github.com/phonism/hackerrank/blob/master/Domains/Algorithms/Warmup/Solve_Me_First.cpp)
             + [x] [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum): [Code](https://github.com/phonism/hackerrank/blob/master/Domains/Algorithms/Warmup/Simple_Array_Sum.cpp)
             + [x] [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum): [Code](https://github.com/phonism/hackerrank/blob/master/Domains/Algorithms/Warmup/A_Very_Big_Sum.cpp)
             + [x] [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference): [Code](https://github.com/phonism/hackerrank/blob/master/Domains/Algorithms/Warmup/Diagonal_Difference.cpp)
             + [x] [Plus Minus](https://www.hackerrank.com/challenges/plus-minus): [Code](https://github.com/phonism/hackerrank/blob/master/Domains/Algorithms/Warmup/Plus_Minus.cpp)
             + [x] [Staircase](https://www.hackerrank.com/challenges/staircase): [Code](https://github.com/phonism/hackerrank/blob/master/Domains/Algorithms/Warmup/Staircase.cpp)
-            + [ ] [Time Conversion](https://www.hackerrank.com/challenges/time-conversion): Try to solve it.
+            + [x] [Time Conversion](https://www.hackerrank.com/challenges/time-conversion): [Code](https://github.com/phonism/hackerrank/blob/master/Domains/Algorithms/Warmup/Time_Conversion.cpp)
         + [Implementation](https://www.hackerrank.com/domains/algorithms/implementation)
             + [ ] [Angry Professor](https://www.hackerrank.com/challenges/angry-professor): Try to solve it.
             + [x] [Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast): [Code](https://github.com/phonism/hackerrank/blob/master/Domains/Algorithms/Implementation/Sherlock_and_The_Beast.cpp)
