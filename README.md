@@ -8,7 +8,7 @@
             + [x] [Plus Minus](https://www.hackerrank.com/challenges/plus-minus): [Code](https://github.com/phonism/hackerrank/blob/master/Domains/Algorithms/Warmup/Plus_Minus.cpp)
             + [x] [Staircase](https://www.hackerrank.com/challenges/staircase): [Code](https://github.com/phonism/hackerrank/blob/master/Domains/Algorithms/Warmup/Staircase.cpp)
             + [x] [Time Conversion](https://www.hackerrank.com/challenges/time-conversion): [Code](https://github.com/phonism/hackerrank/blob/master/Domains/Algorithms/Warmup/Time_Conversion.cpp)
-        + [Implementation](https://www.hackerrank.com/domains/algorithms/implementation)
+        + [Implementation](https://www.hackerrank.com/domains/algorithms/implementation) (10/20)
             + [ ] [Angry Professor](https://www.hackerrank.com/challenges/angry-professor): Try to solve it.
             + [x] [Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast): [Code](https://github.com/phonism/hackerrank/blob/master/Domains/Algorithms/Implementation/Sherlock_and_The_Beast.cpp)
             + [x] [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree): [Code](https://github.com/phonism/hackerrank/blob/master/Domains/Algorithms/Implementation/Utopian_Tree.java)
