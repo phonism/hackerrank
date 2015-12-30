@@ -1,6 +1,6 @@
 + [Domains](https://www.hackerrank.com/domains)
     + [Algorithms](https://www.hackerrank.com/domains/algorithms)
-        + [Warmup](https://www.hackerrank.com/domains/algorithms/warmup) (**ALL DONE**)
+        + [Warmup](https://www.hackerrank.com/domains/algorithms/warmup) (7/7)
             + [x] [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first): [Code](https://github.com/phonism/hackerrank/blob/master/Domains/Algorithms/Warmup/Solve_Me_First.cpp)
             + [x] [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum): [Code](https://github.com/phonism/hackerrank/blob/master/Domains/Algorithms/Warmup/Simple_Array_Sum.cpp)
             + [x] [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum): [Code](https://github.com/phonism/hackerrank/blob/master/Domains/Algorithms/Warmup/A_Very_Big_Sum.cpp)
