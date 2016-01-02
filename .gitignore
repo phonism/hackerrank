@@ -3,6 +3,7 @@
 *.lo
 *.o
 *.obj
+update.sh
 
 # Precompiled Headers
 *.gch
