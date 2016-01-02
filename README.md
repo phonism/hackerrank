@@ -30,3 +30,7 @@
             + [ ] [Encryption](https://www.hackerrank.com/challenges/encryption): Try to solve it.
             + [ ] [[Algo] Matrix Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo): Try to solve it.
             
+
++ [Contests](https://www.hackerrank.com/contests)
+    + [30 Days of Code](https://www.hackerrank.com/contests/30-days-of-code/challenges)
+        + [x] [Day 0: Print Hello World](https://www.hackerrank.com/contests/30-days-of-code/challenges/day-0-print-hello-world): [Code](https://github.com/phonism/hackerrank/blob/master/Contests//Implementation/ACM_ICPC_Team.java)
