@@ -33,4 +33,5 @@
 
 + [Contests](https://www.hackerrank.com/contests)
     + [30 Days of Code](https://www.hackerrank.com/contests/30-days-of-code/challenges)
-        + [x] [Day 0: Print Hello World](https://www.hackerrank.com/contests/30-days-of-code/challenges/day-0-print-hello-world): [Code](https://github.com/phonism/hackerrank/blob/master/Contests/30%20Days%20of%20Code/Day_0_Print_Hello_World.cpp)
+        + [x] [Day 0: Print Hello World!](https://www.hackerrank.com/contests/30-days-of-code/challenges/day-0-print-hello-world): [Code](https://github.com/phonism/hackerrank/blob/master/Contests/30%20Days%20of%20Code/Day_0_Print_Hello_World.cpp)
+        + [x] [Day 1: Data Types!](https://www.hackerrank.com/contests/30-days-of-code/challenges/day-1-data-types): [Code](https://github.com/phonism/hackerrank/blob/master/Contests/30%20Days%20of%20Code/Day_1_Data_Types.cpp)
